@@ -1,0 +1,27 @@
+{
+  "name": "massa-staking-manager-test",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "1": "ts-node src/index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ice <icegriffin1122@gmail.com>",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "@massalabs/massa-web3": "^1.13.0"
+  },
+  "devDependencies": {
+    "@types/node": "^18.11.18",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-import-resolver-alias": "^1.1.2",
+    "eslint-import-resolver-typescript": "^3.5.3",
+    "eslint-plugin-import": "^2.27.5",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "eslint-plugin-promise": "^6.1.1",
+    "typescript": "^4.9.4"
+  }
+}
